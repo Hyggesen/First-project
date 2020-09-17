@@ -1,10 +1,5 @@
 p,
 li,
-h1 {
-  color: red;
-  width: 500px;
-}
-
 html {
   font-size: 10px;
   font-family: "roboto slab", serif;
@@ -17,7 +12,8 @@ h1 {
   margin: 0;
   padding: 20px 0;
   color: #0c0404;
-  text-shadow: 3px 3px 1 px red;
+  text-shadow: 5px 5px 5 px red;
+  width: 500px;
 }
 
 p,
