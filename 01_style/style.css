@@ -4,6 +4,7 @@ html {
   font-size: 10px;
   font-family: "roboto slab", serif;
   background-color: #7cbfbf;
+  text-align: center;
 }
 
 h1 {
@@ -23,7 +24,6 @@ li {
 }
 
 body {
-  width: 600px;
   margin: 0 auto;
   background-color: #7cbfbf;
   padding: 0 20px 20px 20px;
