@@ -1,19 +1,11 @@
-p,
-li,
 html {
   font-size: 10px;
-  font-family: "roboto slab", serif;
-  background-color: #7cbfbf;
-  text-align: center;
+  font-family: "Open Sans", sans-serif;
 }
 
 h1 {
   font-size: 60px;
   text-align: center;
-  margin: 0;
-  padding: 20px 0;
-  color: #0c0404;
-  text-shadow: 5px 5px 5px red;
 }
 
 p,
@@ -23,16 +15,26 @@ li {
   letter-spacing: 1px;
 }
 
+html {
+  background-color: #00539f;
+}
+
 body {
+  width: 600px;
   margin: 0 auto;
-  background-color: #7cbfbf;
+  background-color: #ff9500;
   padding: 0 20px 20px 20px;
-  border: 200px solid black;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 3px 3px 1px black;
 }
 
 img {
   display: block;
   margin: 0 auto;
-  width: 300px;
-  height: 300px;
 }
