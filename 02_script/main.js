@@ -7,3 +7,4 @@ myImage.onclick = function () {
   } else {
     myImage.setAttribute("src", "images/firefox-icon.png");
   }
+};
